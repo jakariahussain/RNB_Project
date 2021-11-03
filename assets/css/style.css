@@ -713,7 +713,7 @@ ul{
     z-index: 999;
     -webkit-box-shadow: 0 2px 28px 0 rgba(0, 0, 0, .09);
     box-shadow: 0 2px 28px 0 rgba(0, 0, 0, .09);
-    background-color: #fff !important;
+    background-color: #fff;
     -webkit-animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 500ms ease-in-out 0s normal none 1 running fadeInDown
 }
