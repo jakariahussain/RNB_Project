@@ -1,4 +1,7 @@
 @media (max-width:991px) {
+    .mean-container .mean-nav ul li a {
+        color: #000 !important;
+    }
     .navbar-area{
         background: #4e0700 !important;
     }
@@ -59,12 +62,13 @@
     }
 
     .mean-container a.meanmenu-reveal {
-        padding: 4px 0 0
+        padding: 4px 0 0;
+        right: 15px !important;
     }
 
     .mean-container a.meanmenu-reveal span {
         display: block;
-        background: #000;
+        background: #fff;
         height: 4px;
         margin-top: -5px;
         border-radius: 3px;
@@ -78,7 +82,7 @@
     }
 
     .mean-container .mean-nav {
-        margin-top: 45px
+        margin-top: 80px
     }
 
     .others-option-for-responsive .dot-menu {
